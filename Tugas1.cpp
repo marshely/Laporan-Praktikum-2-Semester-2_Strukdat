@@ -1,5 +1,3 @@
-// Kalo ada array [2] [2] [3] artinya ada, 2 kolom baris yang terdiri dari 2 baris dan 3 kolom
-
 #include <iostream>
 using namespace std;
 // PROGRAM INPUT ARRAY 3 DIMENSI
